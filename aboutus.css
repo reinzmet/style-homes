@@ -1,0 +1,311 @@
+.macbook-pro-16-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-antiquewhite-100);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  width: 1728px;
+  height: 248px;
+}
+.icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 543px;
+  height: 305px;
+  object-fit: cover;
+}
+.product-supply3 {
+  position: absolute;
+  top: 119px;
+  left: 803px;
+}
+.our-projects3,
+.project-solution3 {
+  position: absolute;
+  top: 119px;
+  left: 1011px;
+}
+.our-projects3 {
+  left: 1225px;
+}
+.about-us6,
+.mask-group-icon13 {
+  position: absolute;
+  top: 119px;
+  left: 1405px;
+}
+.mask-group-icon13 {
+  left: 1546px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.group-icon3 {
+  position: absolute;
+  height: 0.62%;
+  width: 1.16%;
+  top: 3.21%;
+  right: 5.9%;
+  bottom: 96.17%;
+  left: 92.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 106.11px;
+  background-color: var(--color-darkslategray);
+  width: 1729.8px;
+  height: 548px;
+}
+.frame-child3 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 2px;
+  opacity: 0.2;
+}
+.manish-malhotra-all3 {
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 20px;
+  display: inline-block;
+  width: 302px;
+  height: 17px;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+.vector-parent1 {
+  position: absolute;
+  top: 453px;
+  left: 0;
+  width: 1924px;
+  height: 17px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-2xs);
+}
+.company3 {
+  font-weight: 600;
+}
+.about-us7,
+.company3 {
+  position: relative;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.about-us-parent1,
+.company-parent1,
+.legal-parent1,
+.need-help-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-parent1 {
+  gap: var(--gap-xl);
+  font-size: var(--font-size-smi);
+  color: var(--color);
+}
+.company-parent1,
+.legal-parent1,
+.need-help-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  gap: var(--gap-21xl);
+}
+.legal-parent1,
+.need-help-parent1 {
+  top: 0.06px;
+  left: 631.11px;
+}
+.need-help-parent1 {
+  left: 282.75px;
+}
+.frame-parent1,
+.group-child7 {
+  position: absolute;
+  top: 0.06px;
+  left: 1365.42px;
+}
+.frame-parent1 {
+  top: 109px;
+  left: 266.28px;
+  width: 1612.68px;
+  height: 233px;
+}
+.enter-your-email3 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  width: 180px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.carbonlocation-filled-icon3 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.enter-your-email-address-parent1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-wrapper6 {
+  border: 0.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 256px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+}
+.frame-wrapper5,
+.newsletter-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.newsletter-parent1 {
+  gap: var(--gap-21xl);
+}
+.frame-wrapper5 {
+  position: absolute;
+  top: 109px;
+  left: 1339.39px;
+  width: 256.27px;
+  height: 93px;
+}
+.iconmapsplace-24px-child3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.01%;
+  bottom: 0;
+  left: 0.01%;
+  border-radius: 50%;
+  border: 1.1px solid var(--white);
+  box-sizing: border-box;
+}
+.div16 {
+  position: absolute;
+  height: 50%;
+  width: 38.89%;
+  top: 25%;
+  left: 27.79%;
+  letter-spacing: 1.65px;
+  font-weight: 500;
+  display: inline-block;
+}
+.furniture6,
+.iconmapsplace-24px6 {
+  position: relative;
+  width: 14.89px;
+  height: 14.89px;
+  opacity: 0.85;
+}
+.furniture6 {
+  font-size: 12.41px;
+  letter-spacing: 1.65px;
+  font-weight: 500;
+  display: inline-block;
+  width: 75px;
+  height: 9px;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.iconmapsplace-24px-parent4 {
+  position: absolute;
+  width: 6.05%;
+  top: 381.36px;
+  right: 24.34%;
+  left: 69.6%;
+  border-radius: 29.79px;
+  background-color: var(--color-gray-100);
+  height: 31.44px;
+  display: flex;
+  flex-direction: row;
+  padding: 8.274949073791504px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9.93px;
+  font-size: 9.93px;
+}
+.group-child8 {
+  position: absolute;
+  top: 381px;
+  left: 1471.93px;
+  width: 203.6px;
+  height: 32.16px;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 3156px;
+  left: -107px;
+  width: 1924px;
+  height: 548px;
+  font-size: var(--font-size-mini);
+  color: var(--white);
+}
+.about-us8 {
+  position: absolute;
+  top: 342px;
+  left: 723px;
+  font-size: var(--font-size-45xl);
+  line-height: 90px;
+  text-align: center;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+}
+.macbook-pro-16-3-inner,
+.macbook-pro-16-3-item {
+  position: absolute;
+  top: 439.5px;
+  left: 715.5px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 127px;
+  height: 1px;
+}
+.macbook-pro-16-3-inner {
+  left: 886.5px;
+  width: 119px;
+}
+.macbook-pro-16-3-child1 {
+  position: absolute;
+  top: 432px;
+  left: 857px;
+  background-color: var(--color-peru-100);
+  width: 15px;
+  height: 15px;
+}
+.macbook-pro-16-3 {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 3704px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-josefin-sans);
+}

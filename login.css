@@ -1,0 +1,412 @@
+.e-mail-id1,
+.group-child3 {
+  position: absolute;
+  top: 427px;
+  left: 273px;
+}
+.group-child3 {
+  top: 631.64px;
+  left: 117px;
+  background-color: var(--color-darkslategray);
+  width: 1729.8px;
+  height: 548px;
+}
+.frame-child1 {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 2px;
+  opacity: 0.2;
+}
+.manish-malhotra-all2 {
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 20px;
+  display: inline-block;
+  width: 302px;
+  height: 17px;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+.vector-container {
+  position: absolute;
+  top: 1082.64px;
+  left: 0;
+  width: 1924px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-2xs);
+}
+.company2 {
+  font-weight: 600;
+}
+.about-us4,
+.company2 {
+  position: relative;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.about-us-container,
+.company-container,
+.legal-container,
+.need-help-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-container {
+  gap: var(--gap-xl);
+  font-size: var(--font-size-smi);
+  color: var(--color);
+}
+.company-container,
+.legal-container,
+.need-help-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  gap: var(--gap-21xl);
+}
+.legal-container,
+.need-help-container {
+  top: 0.06px;
+  left: 631.11px;
+}
+.need-help-container {
+  left: 282.75px;
+}
+.group-child4,
+.group-div {
+  position: absolute;
+  top: 0.06px;
+  left: 1365.42px;
+}
+.group-div {
+  top: 738.64px;
+  left: 266.28px;
+  width: 1612.68px;
+  height: 233px;
+}
+.enter-your-email2 {
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  width: 180px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.carbonlocation-filled-icon2 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.enter-your-email-address-container {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-wrapper4 {
+  border: 0.5px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 256px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-base);
+}
+.frame-wrapper3,
+.newsletter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.newsletter-container {
+  gap: var(--gap-21xl);
+}
+.frame-wrapper3 {
+  position: absolute;
+  top: 738.64px;
+  left: 1339.39px;
+  width: 256.27px;
+}
+.iconmapsplace-24px-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.01%;
+  bottom: 0;
+  left: 0.01%;
+  border-radius: 50%;
+  border: 1.1px solid var(--white);
+  box-sizing: border-box;
+}
+.div14 {
+  position: absolute;
+  height: 50%;
+  width: 38.89%;
+  top: 25%;
+  left: 27.79%;
+  letter-spacing: 1.65px;
+  font-weight: 500;
+  display: inline-block;
+}
+.furniture4,
+.iconmapsplace-24px4 {
+  position: relative;
+  width: 14.89px;
+  height: 14.89px;
+  opacity: 0.85;
+}
+.furniture4 {
+  font-size: 12.41px;
+  letter-spacing: 1.65px;
+  font-weight: 500;
+  display: inline-block;
+  width: 75px;
+  height: 9px;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.iconmapsplace-24px-parent2 {
+  position: absolute;
+  width: 6.05%;
+  top: calc(50% - 589.82px);
+  right: 24.34%;
+  left: 69.6%;
+  border-radius: 29.79px;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  padding: 8.274949073791504px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9.93px;
+  font-size: 9.93px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 501px;
+  left: -119px;
+  width: 1924px;
+  height: 1179.64px;
+  font-size: var(--font-size-mini);
+  color: var(--white);
+}
+.log-in {
+  position: absolute;
+  top: 288px;
+  left: 778.64px;
+  font-size: 57.14px;
+  line-height: 80.36px;
+  text-align: center;
+  text-shadow: 0 0 3.57px rgba(0, 0, 0, 0.25);
+}
+.macbook-pro-16-5-child,
+.macbook-pro-16-5-item {
+  position: absolute;
+  top: 375.05px;
+  left: 733.55px;
+  border-top: 0.9px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 113.39px;
+  height: 0.89px;
+}
+.macbook-pro-16-5-item {
+  left: 886.23px;
+  width: 106.25px;
+}
+.macbook-pro-16-5-inner {
+  position: absolute;
+  top: 368.36px;
+  left: 859.89px;
+  background-color: var(--color-peru-100);
+  width: 13.39px;
+  height: 13.39px;
+}
+.macbook-pro-16-5-child1,
+.macbook-pro-16-5-child2,
+.macbook-pro-16-5-child3 {
+  position: absolute;
+  top: 748px;
+  left: 273px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-peru-200);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.macbook-pro-16-5-child2,
+.macbook-pro-16-5-child3 {
+  top: 470px;
+  left: 226px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 1276px;
+  height: 78px;
+}
+.macbook-pro-16-5-child3 {
+  top: 648px;
+}
+.password1,
+.show2 {
+  position: absolute;
+  top: 605px;
+  left: 273px;
+}
+.show2 {
+  top: 676px;
+  left: 1380px;
+  font-size: 22px;
+}
+.have-you-forgotten {
+  position: absolute;
+  top: 750px;
+  left: 1045px;
+  font-size: var(--font-size-5xl);
+}
+.sign-in2 {
+  color: var(--color-peru-100);
+}
+.dont-have-an-container,
+.remember-me {
+  position: absolute;
+  top: 963px;
+  left: 637px;
+}
+.remember-me {
+  top: 750px;
+  left: 305px;
+  font-size: var(--font-size-5xl);
+}
+.iconmapsplace-24px-parent3 {
+  position: absolute;
+  width: 6.74%;
+  top: 1458.36px;
+  right: 22.54%;
+  left: 70.72%;
+  border-radius: 29.79px;
+  background-color: var(--color-gray-100);
+  height: 31.44px;
+  display: flex;
+  flex-direction: row;
+  padding: 8.274949073791504px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9.93px;
+  font-size: 9.93px;
+  color: var(--white);
+}
+.macbook-pro-16-5-child4 {
+  position: absolute;
+  top: 1458px;
+  left: 1354.8px;
+  width: 203.6px;
+  height: 32.16px;
+}
+.group-child5,
+.icon2 {
+  position: absolute;
+  top: 38px;
+  left: 7px;
+}
+.group-child5 {
+  background-color: var(--color-antiquewhite-100);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  width: 1728px;
+  height: 191px;
+}
+.icon2 {
+  width: 543px;
+  height: 305px;
+  object-fit: cover;
+}
+.product-supply2 {
+  position: absolute;
+  top: 135px;
+  left: 810px;
+}
+.our-projects2,
+.project-solution2 {
+  position: absolute;
+  top: 135px;
+  left: 1018px;
+}
+.our-projects2 {
+  left: 1232px;
+}
+.about-us5,
+.mask-group-icon12 {
+  position: absolute;
+  top: 135px;
+  left: 1412px;
+}
+.mask-group-icon12 {
+  left: 1553px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.group-icon2 {
+  position: absolute;
+  height: 7.74%;
+  width: 1.15%;
+  top: 45.12%;
+  right: 5.76%;
+  bottom: 47.14%;
+  left: 93.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: -38px;
+  left: -7px;
+  width: 1735px;
+  height: 305px;
+  font-size: var(--font-size-5xl);
+}
+.macbook-pro-16-5-child5 {
+  position: absolute;
+  top: 862px;
+  left: 692px;
+  border-radius: 25.18px;
+  background-color: var(--color-peru-100);
+  width: 305px;
+  height: 65px;
+}
+.log-in1 {
+  position: absolute;
+  top: 883px;
+  left: 811px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-whitesmoke);
+}
+.macbook-pro-16-5 {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 1681px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-josefin-sans);
+}
